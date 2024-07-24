@@ -9,3 +9,7 @@ git clone https://github.com/W4hyuXD/MultiBruteFB
 cd MultiBruteFB
 python3 Run.py
 ```
+
+```python
+print("Good Luck!")
+```
